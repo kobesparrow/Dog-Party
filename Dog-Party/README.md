@@ -7,7 +7,8 @@ Dog Party is my first project as a front end developer student at Turing School 
 
 ### Finished Product
 Dog Party finished project by Mark R. Collins: 
-[![dog-party-Collins.png](https://i.postimg.cc/6Qhw3vTK/dog-party-Collins.png)](https://postimg.cc/gwr1trvt)
+
+(https://i.postimg.cc/6Qhw3vTK/dog-party-Collins.png)](https://postimg.cc/gwr1trvt)
 
 #### Biggest Wins
 Day three of the project was a "near tears" experience as I spent the day mired in self-doubt without direction. While I stress ate 25 chicken wings I sketched psuedo code on a greasy napkin, came home and crushed it, rewriting the entire site before bedtime.
@@ -17,7 +18,8 @@ Vocabulary is a huge hurdle for me. I know what I want to do but am unfamiliar w
 
 #### Assignment
 Assigned comprehensive layout: 
-[![dog-party-js-edition.jpg](https://i.postimg.cc/LX6SZ8Z1/dog-party-js-edition.jpg)](https://postimg.cc/mcqJvRjL)
+
+(https://i.postimg.cc/LX6SZ8Z1/dog-party-js-edition.jpg)](https://postimg.cc/mcqJvRjL)
 
 #### Author
 Mark R. Collins
