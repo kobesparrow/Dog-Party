@@ -1,4 +1,4 @@
-#Dog Party
+# Dog Party
 ---
 A beginning coder's initial attempt at building a simple website from a given comprehensive layout.
 
